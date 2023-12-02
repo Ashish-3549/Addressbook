@@ -261,6 +261,7 @@
                             <xmlOutput>true</xmlOutput>
                         </configuration>
                     </plugin>
+	        </plugins>		
                 </plugins>
             </build>
         </profile>
